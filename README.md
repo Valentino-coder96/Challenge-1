@@ -8,7 +8,7 @@
 <body>
     <div style="text-align: center;">
         <h1>VALENTINO CECI</h1>
-        <img src="file:///C:/Users/user/Pictures/Valentino%20Ceci.jpg" style="width: 400px;">
+        <img src="Valentino Ceci.jpg" style="width: 400px;">
     </div>
     <div style="text-align: center;">
         <h2>HOBBY E INTERESSI</h2>
