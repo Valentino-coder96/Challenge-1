@@ -8,16 +8,6 @@
 <body>
     <div style="text-align: center;">
         <h1>VALENTINO CECI</h1>
-        <img src="<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Challenge 1</title>
-</head>
-<body>
-    <div style="text-align: center;">
-        <h1>VALENTINO CECI</h1>
         <img src="file:///C:/Users/user/Pictures/Valentino%20Ceci.jpg" style="width: 400px;">
     </div>
     <div style="text-align: center;">
